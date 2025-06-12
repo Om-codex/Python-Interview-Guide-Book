@@ -39,9 +39,7 @@ Welcome to the **Python Interview Guide Book** — a beginner-friendly yet power
 
 ## 📥 Download the Book
 
-👉 [**Click here to download the PDF**](#)  
-(*Replace with Google Drive / GitHub file link*)
-
+👉 https://github.com/Om-codex/Python-Interview-Guide-Book
 ---
 
 ## 📸 Preview
