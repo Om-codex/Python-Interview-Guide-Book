@@ -44,9 +44,7 @@ Welcome to the **Python Interview Guide Book** — a beginner-friendly yet power
 
 ## 📸 Preview
 
-![Cover Page](./cover_dark.png)  
-(*Include this if you have uploaded the cover image*)
-
+https://github.com/Om-codex/Python-Interview-Guide-Book/blob/aa4a7c3c3c00597d9d394d47161efb4c5b7b3ec5/file_00000000176061f584dbb8683efd8090.png
 ---
 
 ## 🤝 Contributing
