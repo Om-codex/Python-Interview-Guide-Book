@@ -57,7 +57,7 @@ Feel free to fork this repo, contribute, or suggest improvements via Issues or P
 ## 📧 Contact
 
 **Author:** Om S Mishra  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 https://www.linkedin.com/in/om-mishra-a55263329
 📫 Reach me for collaborations, feedback, or ideas!
 
 ---
